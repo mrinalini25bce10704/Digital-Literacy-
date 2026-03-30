@@ -33,10 +33,5 @@ Developed a case study on cybercrime and created a prevention checklist.
 
 
 
-
-Google Form: [Paste your link here later]
-
-
-
 Report
 The complete project report is available in the `report/` folder.
